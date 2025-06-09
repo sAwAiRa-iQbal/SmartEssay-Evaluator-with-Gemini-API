@@ -118,13 +118,6 @@ E --> F[Overall Score + Suggestions 📊]
 
 ---
 
-## 🏷️ Topics & Tags
-
-`Gemini API` `Essay Grading` `LangChain` `LangGraph`  
-`IELTS Evaluator` `AI Writing Assistant` `NLP Tool` `Essay Feedback`
-
----
-
 ## 🙌 Acknowledgements
 
 Thanks to:
